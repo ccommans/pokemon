@@ -1,4 +1,4 @@
-Data Analysis Project of 800 Pokemon from Generations 1–6 using pandas, SQL, matplotlib, and Tableau.
+Data Analysis Project of 721 Pokemon from Generations 1–6 using pandas, SQL, matplotlib, and Tableau.
 
 See [site](https://ccommans.github.io/pokemon/) for Tableau visuals.
 
